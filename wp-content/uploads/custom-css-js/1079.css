@@ -1,0 +1,14 @@
+<!-- start Simple Custom CSS and JS -->
+<style type="text/css">
+.woocommerce-Price-amount {
+  	font-weight: 400 !important;
+	font-size: 30px;
+  	color: #7baa39 !important;
+}
+
+.wrsl-prosingle-price .woocommerce-Price-amount{
+  	color: #fff !important;
+  font-weight: 700 !important;
+	font-family: Montserrat, "Open Sans", Helvetica, Arial, sans-serif !important;
+}</style>
+<!-- end Simple Custom CSS and JS -->

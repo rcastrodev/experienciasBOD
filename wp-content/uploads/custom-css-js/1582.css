@@ -1,0 +1,18 @@
+<!-- start Simple Custom CSS and JS -->
+<style type="text/css">
+.woocommerce div.product form.cart div.quantity:before {
+    content: "" !important;
+}
+
+.input-qty-pm {
+    flex-wrap: nowrap !important;
+}
+
+@media only screen and (max-width: 550px) {
+   .woocommerce-page .coupon .button, .woocommerce-page .input-group-text-button .button {
+    	width: 15em !important;
+   }
+}
+
+</style>
+<!-- end Simple Custom CSS and JS -->

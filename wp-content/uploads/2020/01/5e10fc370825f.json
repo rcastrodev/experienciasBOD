@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "253232914903",
+    "firebase_url": "https://experienciasbob.firebaseio.com",
+    "project_id": "experienciasbob",
+    "storage_bucket": "experienciasbob.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:253232914903:android:072206a7532b50cb24ab92",
+        "android_client_info": {
+          "package_name": "appexperienciasbodcom.wpapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "253232914903-2hq4ou69fpd91bnf6kf5kg9hbnbbqb1u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0xejV7EJnFSv4WmDB5I66nfWqr7uwCWk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "253232914903-2hq4ou69fpd91bnf6kf5kg9hbnbbqb1u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,11 @@
+<!-- start Simple Custom CSS and JS -->
+<style type="text/css">
+.nav-menu-desktop.style-border-top .nav-menu>li>a .link-before:before {
+    height: 1px;
+}
+
+body.page-id-1666 #cb-row--header-bottom {
+    display: none;
+}
+</style>
+<!-- end Simple Custom CSS and JS -->

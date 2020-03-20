@@ -1,0 +1,27 @@
+<!-- start Simple Custom CSS and JS -->
+<style type="text/css">
+div.product div.summary {
+  	margin-top: 0px !important;
+    padding: 40px;
+}
+
+.related.products, .upsells.products {
+    padding: 40px;
+}
+
+.page-titlebar {
+    padding: 20px;
+}
+
+.woocommerce ul.products {
+    padding: 20px;
+}
+
+.wc-product-inner .wc-product-contents {
+    text-align: center;
+}
+
+.page-breadcrumb-list {
+    margin: 0 0em;
+}</style>
+<!-- end Simple Custom CSS and JS -->

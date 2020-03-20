@@ -1,0 +1,133 @@
+<!-- start Simple Custom CSS and JS -->
+<style type="text/css">
+.woorousell_sc .button {
+
+    background-color: transparent !important;
+    border-color: #fff !important;
+    border-style: solid !important;
+    border-radius: 1em !important;
+}
+.wrsl-prosingle-heading{
+ text-transform: none !important; 
+  color: #000 !important;
+  font-weight: 700 !important;
+	font-family: Montserrat, "Open Sans", Helvetica, Arial, sans-serif !important;
+}
+
+.woorousell_sc .lugarBold {
+  font-size: .8em !important;
+  color: #000 !important;
+  font-weight: 700 !important;
+	font-family: Montserrat, "Open Sans", Helvetica, Arial, sans-serif !important;
+  line-height: 25px !important;
+ 
+ 
+  display: -webkit-box !important;
+    height: 20px !important;
+    -webkit-line-clamp: 1 !important;
+    -webkit-box-orient: vertical !important;
+    overflow: hidden !important;
+    text-overflow: ellipsis !important;
+}
+.woorousell_sc .lugarBoldTitulo {
+  font-size: .8em !important;
+  color: #000 !important;
+  font-weight: 700 !important;
+	font-family: Montserrat, "Open Sans", Helvetica, Arial, sans-serif !important;
+  line-height: 25px !important;
+ 
+ 
+  display: -webkit-box !important;
+    height: 50px !important;
+    -webkit-line-clamp: 2 !important;
+    -webkit-box-orient: vertical !important;
+    overflow: hidden !important;
+    text-overflow: ellipsis !important;
+}
+.woorousell_sc .lugarLight {
+  font-size: .8em;
+  color: #b1b1b1 !important;
+  font-weight: 300 !important;
+	font-family: Montserrat, "Open Sans", Helvetica, Arial, sans-serif !important;
+  line-height: 20px;
+  
+  display: -webkit-box !important;
+    height: 50px !important;
+    -webkit-line-clamp: 2 !important;
+    -webkit-box-orient: vertical !important;
+    overflow: hidden !important;
+    text-overflow: ellipsis !important;
+  
+}
+.wrsl-carousel-item{
+ border: 1px #b1b1b1 solid;
+ border-radius: 10px;
+  margin-right: 15px !important;
+  width:246px !important;
+  height: 360px!important;
+}
+.bx-viewport{
+	height: 370px!important;
+}
+
+.wrsl-prosingle-wrapper{
+  border-radius: 10px;
+  height: 358px!important;
+}
+.wrsl-prosingle-thumbnail .woocommerce-Price-amount{
+  	color: #000 !important;
+  font-weight: 700 !important;
+  font-size: 1.5em;
+	font-family: Montserrat, "Open Sans", Helvetica, Arial, sans-serif !important;
+  justify-content: center;
+   align-items: center;
+	vertical-align: middle !important;
+  line-height: 50px;
+}
+
+.imgThumbnail{
+  margin-top: -15% !important;
+}
+
+.wrsl-carousel-to-next{
+  background-color: #7faa39 !important;
+    right: -20px !important;
+    height: 25px !important;
+    width: 25px !important;
+    padding: 0 !important;
+    border-radius: 50% !important;
+    opacity: .5 !important;
+    line-height: 0 !important;
+    min-height: 0 !important;
+}
+
+.wrsl-carousel-to-prev{
+  background-color: #7faa39 !important;
+    left: -20px !important;
+    height: 25px !important;
+    width: 25px !important;
+    padding: 0 !important;
+    border-radius: 50% !important;
+    opacity: .5 !important;
+    line-height: 0 !important;
+    min-height: 0 !important;
+}
+.button:not(.components-button):not(.customize-partial-edit-shortcut-button), button:not(.components-button):not(.customize-partial-edit-shortcut-button), input[type=button]:not(.components-button):not(.customize-partial-edit-shortcut-button), input[type=reset]:not(.components-button):not(.customize-partial-edit-shortcut-button), input[type=submit]:not(.components-button):not(.customize-partial-edit-shortcut-button) {
+  border: none;
+}
+.wrsl-prosingle-button .button {
+      
+  border: 1px !important;
+  padding: 0 1.5em !important;
+    line-height: 1.8em !important;
+    min-height: 1.8em !important;
+  border-radius:10px !important;
+  
+}
+
+.wrsl-prosingle-button .button:hover {
+    opacity: 1 !important;
+}
+
+</style>
+<!-- end Simple Custom CSS and JS -->
