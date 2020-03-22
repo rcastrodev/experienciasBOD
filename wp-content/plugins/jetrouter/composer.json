@@ -1,0 +1,12 @@
+{
+  "name": "jetplugins/jetrouter",
+  "require-dev": {
+    "codeception/codeception": "*",
+    "10up/wp_mock": "dev-master"
+  },
+  "autoload": {
+    "psr-4": {
+      "JetRouter\\": "src"
+    }
+  }
+}

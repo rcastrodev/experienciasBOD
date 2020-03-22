@@ -16,10 +16,10 @@
 
 // ** Ajustes de MySQL. Solicita estos datos a tu proveedor de alojamiento web. ** //
 /** El nombre de tu base de datos de WordPress */
-define( 'DB_NAME', 'ExpBod' );
+define( 'DB_NAME', 'expbod' );
 
 /** Tu nombre de usuario de MySQL */
-define( 'DB_USER', 'root' );
+define( 'DB_USER', 'expbod' );
 
 /** Tu contraseña de MySQL */
 define( 'DB_PASSWORD', 'Loyalfeel.2020' );

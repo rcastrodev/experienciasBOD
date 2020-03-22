@@ -5,6 +5,19 @@
  * @package customify
  */
 
+// Import the JetRouter
+use JetRouter\Router;
+  
+// Router config
+$config = [];
+  
+// Create the router instance
+$r = Router::create($config);
+
+$r->get('/users', 'get_user_by_username', function(){
+  echo "Welcome back!";
+});
+
 if ( ! function_exists( 'customify_get_config_sidebar_layouts' ) ) {
 	function customify_get_config_sidebar_layouts() {
 		return array(

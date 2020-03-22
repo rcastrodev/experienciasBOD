@@ -78,3 +78,17 @@ function Customify() {
 
 Customify();
 
+// Import the JetRouter
+use JetRouter\Router;
+  
+// Router config
+$config = [];
+  
+// Create the router instance
+$r = Router::create($config);
+
+$r->get( 'myroute', 'myroute', function() {
+    do_action( 'template_redirect' );
+    require_once 'v1/content.php';
+    exit;
+} );

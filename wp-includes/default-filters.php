@@ -585,3 +585,4 @@ add_filter( 'user_has_cap', 'wp_maybe_grant_resume_extensions_caps', 1 );
 add_filter( 'user_has_cap', 'wp_maybe_grant_site_health_caps', 1, 4 );
 
 unset( $filter, $action );
+
